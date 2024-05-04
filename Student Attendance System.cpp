@@ -3,10 +3,10 @@
 using namespace std;
 
 char stuName[20][30];
-float stuRollno[20]; //
+float stuRollno[20];
 int presentAttendance[20] = {0};
 int absentAttendance[20] = {0};
-int totalAttentaken = 0; //
+int totalAttentaken = 0;
 int TotalStuPresent;
 int TotalStudAbssesnt;
 int indexNumber = 0;
